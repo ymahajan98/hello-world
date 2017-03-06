@@ -1,3 +1,3 @@
 # hello-world
-Nothing
-still nothing
+Nothing.
+Still nothing
